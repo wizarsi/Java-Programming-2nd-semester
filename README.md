@@ -1,2 +1,2 @@
-# Java-Programming-2st-semester
+# Java-Programming-2nd-semester
 ITMO University labs. Console client-server desktop application.
