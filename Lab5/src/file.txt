@@ -1,0 +1,2 @@
+Key: 1. Value: Worker{id=1, name='Ivan', coordinates= X:7 Y:5.0, creationDate=2021-03-11T01:41:50.574, salary=23223, position=LABORER, status=RECOMMENDED_FOR_PROMOTION, person= birthday:2001-06-01T20:01 height:180.0 pasportID:2345945678}
+Key: 2. Value: Worker{id=2, name='dfsaklas', coordinates= X:32423 Y:2.0, creationDate=2021-03-11T01:41:50.589, salary=32423, position=LABORER, status=HIRED, person= birthday:1999-05-01T00:01 height:180.0 pasportID:asf}

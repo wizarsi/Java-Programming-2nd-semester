@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-25T13:55:32</date>
+  <millis>1619348132445</millis>
+  <sequence>2</sequence>
+  <logger>NetInteraction.Answer</logger>
+  <level>INFO</level>
+  <class>NetInteraction.Answer</class>
+  <method>answerForClient</method>
+  <thread>1</thread>
+  <message>Сообщение, отпрвлено: Парсинг выполнен успешно!
+ - Адрес клиента:/127.0.0.1:51528</message>
+</record>
+<record>
+  <date>2021-04-25T13:55:36</date>
+  <millis>1619348136126</millis>
+  <sequence>4</sequence>
+  <logger>NetInteraction.Answer</logger>
+  <level>INFO</level>
+  <class>NetInteraction.Answer</class>
+  <method>answerForClient</method>
+  <thread>1</thread>
+  <message>Сообщение, отпрвлено: Key: 1. Value: Worker{id=1, name='Ivan', coordinates= X:7 Y:5.0, creationDate=2021-04-25T13:55:32.414, salary=23223, position=LABORER, status=RECOMMENDED_FOR_PROMOTION, person= birthday:2001-06-01T20:01 height:180.0 pasportID:2345945678}
+Key: 2. Value: Worker{id=2, name='Vova', coordinates= X:7 Y:7.0, creationDate=2021-04-25T13:55:32.445, salary=2322, position=LABORER, status=RECOMMENDED_FOR_PROMOTION, person= birthday:2000-06-01T20:01 height:170.0 pasportID:234545678}
+ - Адрес клиента:/127.0.0.1:51528</message>
+</record>
+<record>
+  <date>2021-04-25T13:55:40</date>
+  <millis>1619348140041</millis>
+  <sequence>6</sequence>
+  <logger>NetInteraction.Answer</logger>
+  <level>INFO</level>
+  <class>NetInteraction.Answer</class>
+  <method>answerForClient</method>
+  <thread>1</thread>
+  <message>Сообщение, отпрвлено: Неопознанная команда. Наберите 'help' для справки. - Адрес клиента:/127.0.0.1:51528</message>
+</record>

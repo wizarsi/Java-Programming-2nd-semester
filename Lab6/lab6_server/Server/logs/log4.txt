@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-25T13:55:27</date>
+  <millis>1619348127035</millis>
+  <sequence>0</sequence>
+  <logger>Application.Commander</logger>
+  <level>INFO</level>
+  <class>Application.Commander</class>
+  <method>runCommander</method>
+  <thread>1</thread>
+  <message>Сервер запущен c портом:7020</message>
+</record>

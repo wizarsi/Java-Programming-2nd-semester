@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report>
+    <employers>
+        <employee>
+            <name>Ivan</name>
+            <salary>23223</salary>
+            <coordinates>
+                <x>7</x>
+                <y>5</y>
+            </coordinates>
+            <status>RECOMMENDED_FOR_PROMOTION</status>
+            <position>LABORER</position>
+            <person>
+                <birthday>June 1, 2001 08:01 PM</birthday>
+                <pasportID>2345945678</pasportID>
+                <height>180</height>
+            </person>
+        </employee>
+        <employee>
+            <name>dfsaklas</name>
+            <salary>32423</salary>
+            <person>
+                <birthday>May 1, 1999 12:01 AM</birthday>
+                <pasportID>asf</pasportID>
+                <height>180</height>
+            </person>
+            <coordinates>
+                <x>32423</x>
+                <y>2</y>
+            </coordinates>
+            <position>LABORER</position>
+            <status>HIRED</status>
+        </employee>
+    </employers>
+</report>

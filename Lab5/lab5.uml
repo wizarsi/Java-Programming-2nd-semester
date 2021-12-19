@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1118.0" y="1200.0">com</node>
+    <node x="523.0" y="347.0">Worker.Person</node>
+    <node x="831.0" y="1125.0">netscape</node>
+    <node x="811.0" y="0.0">Commander</node>
+    <node x="0.0" y="1275.0">sun</node>
+    <node x="0.0" y="1200.0">javadoc</node>
+    <node x="570.0" y="1125.0">groovyjarjarasm</node>
+    <node x="945.0" y="1200.0">java</node>
+    <node x="764.0" y="1200.0">javax</node>
+    <node x="0.0" y="1125.0">groovyjarjarpicocli</node>
+    <node x="364.0" y="0.0">Worker</node>
+    <node x="197.0" y="1200.0">javafx</node>
+    <node x="482.0" y="893.0">Status</node>
+    <node x="386.0" y="1200.0">oracle</node>
+    <node x="165.0" y="1275.0">org</node>
+    <node x="0.0" y="0.0">CollectionManager</node>
+    <node x="265.0" y="893.0">Position</node>
+    <node x="296.0" y="358.0">Worker.Coordinates</node>
+    <node x="1036.0" y="1125.0">META-INF</node>
+    <node x="330.0" y="1275.0">jdk</node>
+    <node x="575.0" y="1200.0">groovy</node>
+    <node x="0.0" y="893.0">Utils</node>
+    <node x="930.0" y="893.0">groovyjarjarcommonscli</node>
+    <node x="293.0" y="1125.0">groovyjarjarantlr</node>
+    <node x="735.0" y="893.0">Main</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Worker.Coordinates" target="Worker">
+      <point x="0.0" y="-49.5" />
+      <point x="399.5" y="322.0" />
+      <point x="443.0" y="322.0" />
+      <point x="-79.0" y="148.5" />
+    </edge>
+    <edge source="Worker.Person" target="Worker">
+      <point x="0.0" y="-60.5" />
+      <point x="644.5" y="322.0" />
+      <point x="601.0" y="322.0" />
+      <point x="79.0" y="148.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5056603773584906" x="619.0" y="652.5" />
+  <SelectedNodes>
+    <node>groovyjarjarcommonscli</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

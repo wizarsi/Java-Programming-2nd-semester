@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<report>
+    <employers>
+        <employee>
+            <name>Ivan</name>
+            <salary>23223</salary>
+            <coordinates>
+                <x>7</x>
+                <y>5</y>
+            </coordinates>
+            <status>RECOMMENDED_FOR_PROMOTION</status>
+            <position>LABORER</position>
+            <person>
+                <birthday>June 1, 2001 08:01 PM</birthday>
+                <pasportID>2345945678</pasportID>
+                <height>180</height>
+            </person>
+        </employee>
+        <employee>
+            <name>Vova</name>
+            <salary>2322</salary>
+            <coordinates>
+                <x>7</x>
+                <y>7</y>
+            </coordinates>
+            <status>RECOMMENDED_FOR_PROMOTION</status>
+            <position>LABORER</position>
+            <person>
+                <birthday>June 1, 2000 08:01 PM</birthday>
+                <pasportID>234545678</pasportID>
+                <height>170</height>
+            </person>
+        </employee>
+    </employers>
+</report>

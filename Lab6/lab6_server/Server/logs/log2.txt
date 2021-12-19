@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-25T13:55:32</date>
+  <millis>1619348132336</millis>
+  <sequence>1</sequence>
+  <logger>NetInteraction.Ask</logger>
+  <level>INFO</level>
+  <class>NetInteraction.Ask</class>
+  <method>askForClient</method>
+  <thread>1</thread>
+  <message>Новое подключение - Адрес клиента:/127.0.0.1:51528</message>
+</record>
+<record>
+  <date>2021-04-25T13:55:36</date>
+  <millis>1619348136126</millis>
+  <sequence>3</sequence>
+  <logger>NetInteraction.Ask</logger>
+  <level>INFO</level>
+  <class>NetInteraction.Ask</class>
+  <method>askForClient</method>
+  <thread>1</thread>
+  <message>Сообщение, получено: show - Адрес клиента:/127.0.0.1:51528</message>
+</record>
+<record>
+  <date>2021-04-25T13:55:40</date>
+  <millis>1619348140041</millis>
+  <sequence>5</sequence>
+  <logger>NetInteraction.Ask</logger>
+  <level>INFO</level>
+  <class>NetInteraction.Ask</class>
+  <method>askForClient</method>
+  <thread>1</thread>
+  <message>Сообщение, получено: ino - Адрес клиента:/127.0.0.1:51528</message>
+</record>

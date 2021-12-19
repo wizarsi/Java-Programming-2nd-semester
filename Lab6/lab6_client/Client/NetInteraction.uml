@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>NetInteraction</OriginalElement>
+  <nodes>
+    <node x="271.0" y="0.0">NetInteraction.Answer</node>
+    <node x="0.0" y="0.0">NetInteraction.Ask</node>
+    <node x="154.41666666666663" y="172.0">NetInteraction.ClientManager</node>
+    <node x="188.41666666666663" y="713.0">NetInteraction.Client</node>
+    <node x="160.41666666666663" y="521.0">NetInteraction.ClientEvents</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="NetInteraction.ClientManager" target="NetInteraction.Ask">
+      <point x="-81.75" y="-149.5" />
+      <point x="181.66666666666663" y="147.0" />
+      <point x="156.875" y="147.0" />
+      <point x="31.375" y="61.0" />
+    </edge>
+    <edge source="NetInteraction.ClientManager" target="NetInteraction.Answer">
+      <point x="27.25" y="-149.5" />
+      <point x="290.66666666666663" y="147.0" />
+      <point x="304.875" y="147.0" />
+      <point x="-101.625" y="61.0" />
+    </edge>
+    <edge source="NetInteraction.Client" target="NetInteraction.ClientEvents">
+      <point x="-9.375" y="-27.0" />
+      <point x="254.04166666666663" y="663.0" />
+      <point x="211.91666666666663" y="663.0" />
+      <point x="-51.5" y="61.0" />
+    </edge>
+    <edge source="NetInteraction.Client" target="NetInteraction.Answer">
+      <point x="65.625" y="-27.0" />
+      <point x="329.04166666666663" y="693.0" />
+      <point x="451.4833333333333" y="693.0" />
+      <point x="451.4833333333333" y="147.0" />
+      <point x="508.125" y="147.0" />
+      <point x="101.625" y="61.0" />
+    </edge>
+    <edge source="NetInteraction.ClientEvents" target="NetInteraction.ClientManager">
+      <point x="-51.5" y="-61.0" />
+      <point x="211.91666666666663" y="496.0" />
+      <point x="236.16666666666663" y="496.0" />
+      <point x="-27.25" y="149.5" />
+    </edge>
+    <edge source="NetInteraction.Client" target="NetInteraction.Ask">
+      <point x="-46.875" y="-27.0" />
+      <point x="216.54166666666663" y="683.0" />
+      <point x="87.68333333333328" y="683.0" />
+      <point x="87.68333333333328" y="147.0" />
+      <point x="94.125" y="147.0" />
+      <point x="-31.375" y="61.0" />
+    </edge>
+    <edge source="NetInteraction.Client" target="NetInteraction.ClientManager">
+      <point x="-28.125" y="-27.0" />
+      <point x="235.29166666666663" y="673.0" />
+      <point x="103.02499999999998" y="673.0" />
+      <point x="103.02499999999998" y="496.0" />
+      <point x="181.66666666666663" y="496.0" />
+      <point x="-81.75" y="149.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8513341804320204" x="271.0" y="383.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

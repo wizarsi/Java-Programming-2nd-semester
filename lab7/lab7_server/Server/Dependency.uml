@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Dependency</OriginalElement>
+  <nodes>
+    <node x="370.7037037037037" y="237.0">Dependency.Utils</node>
+    <node x="251.42394179894174" y="0.0">Dependency.Position</node>
+    <node x="116.17724867724866" y="248.5">Dependency.DataCheckerForClient</node>
+    <node x="139.42724867724863" y="528.0">Dependency.Command</node>
+    <node x="0.0" y="11.0">Dependency.Status</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Dependency.DataCheckerForClient" target="Dependency.Status">
+      <point x="-54.75000000000003" y="-104.0" />
+      <point x="170.92724867724863" y="212.0" />
+      <point x="173.33333333333331" y="212.0" />
+      <point x="69.33333333333331" y="82.5" />
+    </edge>
+    <edge source="Dependency.Command" target="Dependency.Status">
+      <point x="-120.85714285714283" y="-314.5" />
+      <point x="159.5701058201058" y="508.0" />
+      <point x="87.22023809523807" y="508.0" />
+      <point x="87.22023809523807" y="212.0" />
+      <point x="34.666666666666686" y="212.0" />
+      <point x="-69.33333333333331" y="82.5" />
+    </edge>
+    <edge source="Dependency.Command" target="Dependency.Utils">
+      <point x="120.85714285714289" y="-314.5" />
+      <point x="401.2843915343915" y="508.0" />
+      <point x="480.7037037037037" y="508.0" />
+      <point x="0.0" y="115.5" />
+    </edge>
+    <edge source="Dependency.Command" target="Dependency.Position">
+      <point x="80.57142857142856" y="-314.5" />
+      <point x="360.2037037037037" y="212.0" />
+      <point x="394.75727513227514" y="212.0" />
+      <point x="57.33333333333337" y="93.5" />
+    </edge>
+    <edge source="Dependency.Command" target="Dependency.DataCheckerForClient">
+      <point x="-40.28571428571428" y="-314.5" />
+      <point x="240.14153439153435" y="488.0" />
+      <point x="170.92724867724866" y="488.0" />
+      <point x="-54.75" y="104.0" />
+    </edge>
+    <edge source="Dependency.DataCheckerForClient" target="Dependency.Position">
+      <point x="54.74999999999997" y="-104.0" />
+      <point x="-57.333333333333314" y="93.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5692438402718777" x="295.5" y="578.5" />
+  <SelectedNodes>
+    <node>Dependency.Utils</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Application</OriginalElement>
+  <nodes>
+    <node x="189.88125000000002" y="1835.0">Application.Commander</node>
+    <node x="0.0" y="528.0">Application.ObjectCheckerForServer</node>
+    <node x="325.28125" y="11.0">Application.Worker.Coordinates</node>
+    <node x="132.63125000000002" y="1619.0">Application.ServerConsole</node>
+    <node x="167.28125000000003" y="181.0">Application.Worker</node>
+    <node x="62.28125000000006" y="0.0">Application.Worker.Person</node>
+    <node x="168.29791666666668" y="786.0">Application.CollectionManager</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Application.Commander" target="Application.ServerConsole">
+      <point x="-96.0" y="-171.0" />
+      <point x="221.88125000000002" y="1810.0" />
+      <point x="191.63125000000002" y="1810.0" />
+      <point x="-59.0" y="83.0" />
+    </edge>
+    <edge source="Application.Worker" target="Application.Worker.Person">
+      <point x="-138.25" y="-148.5" />
+      <point x="187.03125000000003" y="161.0" />
+      <point x="92.65625000000006" y="161.0" />
+      <point x="-91.125" y="60.5" />
+    </edge>
+    <edge source="Application.Worker.Person" target="Application.Worker">
+      <point x="91.125" y="60.5" />
+      <point x="274.90625000000006" y="161.0" />
+      <point x="305.53125" y="161.0" />
+      <point x="-19.75" y="-148.5" />
+    </edge>
+    <edge source="Application.Worker" target="Application.Worker.Coordinates">
+      <point x="19.75" y="-148.5" />
+      <point x="345.03125" y="161.0" />
+      <point x="351.15625" y="161.0" />
+      <point x="-77.625" y="49.5" />
+    </edge>
+    <edge source="Application.ServerConsole" target="Application.CollectionManager">
+      <point x="-59.0" y="-83.0" />
+      <point x="191.63125000000002" y="1594.0" />
+      <point x="207.29791666666668" y="1594.0" />
+      <point x="-117.0" y="391.5" />
+    </edge>
+    <edge source="Application.ObjectCheckerForServer" target="Application.Worker">
+      <point x="0.0" y="-104.0" />
+      <point x="180.5" y="508.0" />
+      <point x="206.78125000000003" y="508.0" />
+      <point x="-118.5" y="148.5" />
+    </edge>
+    <edge source="Application.CollectionManager" target="Application.ObjectCheckerForServer">
+      <point x="-124.80000000000001" y="-391.5" />
+      <point x="199.49791666666667" y="761.0" />
+      <point x="90.25" y="761.0" />
+      <point x="-90.25" y="104.0" />
+    </edge>
+    <edge source="Application.Worker.Coordinates" target="Application.Worker">
+      <point x="77.625" y="49.5" />
+      <point x="506.40625" y="161.0" />
+      <point x="463.53125" y="161.0" />
+      <point x="138.25" y="-148.5" />
+    </edge>
+    <edge source="Application.CollectionManager" target="Application.Worker">
+      <point x="124.80000000000001" y="-391.5" />
+      <point x="449.0979166666667" y="761.0" />
+      <point x="393.5" y="761.0" />
+      <point x="393.5" y="508.0" />
+      <point x="443.78125" y="508.0" />
+      <point x="118.5" y="148.5" />
+    </edge>
+    <edge source="Application.Commander" target="Application.CollectionManager">
+      <point x="96.0" y="-171.0" />
+      <point x="413.88125" y="1810.0" />
+      <point x="390.13125" y="1810.0" />
+      <point x="390.13125" y="1594.0" />
+      <point x="441.29791666666665" y="1594.0" />
+      <point x="117.0" y="391.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.3049613108784706" x="266.5" y="1088.5" />
+  <SelectedNodes>
+    <node>Application.Commander</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

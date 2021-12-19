@@ -1,0 +1,2 @@
+Key: 4. Value: Worker{id=4, name='Ivan'; coordinates= coordinates_x:3, coordinates_y:4.0; creationDate=2021-05-15T00:59:07.877, salary=2334234, position=HEAD_OF_DEPARTMENT, status=PROBATION; person= passport:3456 242346, birthday:2001-05-23T09:21, height:198.0; author='123'}
+Key: 26. Value: Worker{id=26, name='123'; coordinates= coordinates_x:123, coordinates_y:123.0; creationDate=2021-05-12T02:32:09.805, salary=100, position=MANAGER_OF_CLEANING, status=PROBATION; person= passport:2342, birthday:2000-05-23T11:23, height:24356.0; author='123'}

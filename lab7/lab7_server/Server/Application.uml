@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Application</OriginalElement>
+  <nodes>
+    <node x="135.77500000000003" y="1845.0">Application.Commander</node>
+    <node x="0.0" y="560.0">Application.ObjectCheckerForServer</node>
+    <node x="155.92678571428576" y="2326.0">Application.EnterCommand</node>
+    <node x="96.27678571428572" y="11.0">Application.Worker.Coordinates</node>
+    <node x="96.32678571428576" y="1629.0">Application.ServerConsole</node>
+    <node x="178.77678571428572" y="191.0">Application.Worker</node>
+    <node x="323.2767857142857" y="0.0">Application.Worker.Person</node>
+    <node x="122.46607142857144" y="818.0">Application.CollectionManager</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Application.Worker.Person" target="Application.Worker">
+      <point x="91.12500000000004" y="60.5" />
+      <point x="535.9017857142858" y="171.0" />
+      <point x="475.0267857142857" y="171.0" />
+      <point x="138.25" y="-159.5" />
+    </edge>
+    <edge source="Application.Worker.Coordinates" target="Application.Worker">
+      <point x="77.625" y="49.5" />
+      <point x="277.4017857142857" y="141.0" />
+      <point x="317.0267857142857" y="141.0" />
+      <point x="-19.75" y="-159.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.2714748784440843" x="283.5" y="1224.0" />
+  <SelectedNodes>
+    <node>Application.Commander</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

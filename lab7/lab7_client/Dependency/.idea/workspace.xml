@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf46e5c7-3ee7-4b93-85f4-846b9b0cfa0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/Client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/Client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/NetInteraction/Ask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/NetInteraction/Ask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/NetInteraction/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/NetInteraction/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/NetInteraction/ClientEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/NetInteraction/ClientEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Client/src/NetInteraction/ClientManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Client/src/NetInteraction/ClientManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dependency.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstOneMoreClient/FirstOneMoreClient.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstOneMoreClient/config.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstOneMoreClient/src/NetInteraction/Answer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstOneMoreClient/src/NetInteraction/Ask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstOneMoreClient/src/NetInteraction/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstOneMoreClient/src/NetInteraction/ClientEvents.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstOneMoreClient/src/NetInteraction/ClientManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/Application.uml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Application.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/Server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/Server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/logs/log1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/logs/log1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/logs/log1.txt.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/logs/log2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/logs/log2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/logs/log2.txt.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/logs/log3.txt.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/logs/log4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/logs/log4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/logs/log4.txt.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/Application/CollectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/src/Application/CollectionManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/Application/Commander.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/src/Application/Commander.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5.uml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rcCrLbkJ0IaDTc2buPwJf0quO1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf46e5c7-3ee7-4b93-85f4-846b9b0cfa0c" name="Default Changelist" comment="" />
+      <created>1619266188857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619266188857</updated>
+      <workItem from="1619266189964" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
